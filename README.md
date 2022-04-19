@@ -1,7 +1,7 @@
 ### Hi, me chamo John Müller Furtado Pinto ✋
 
 🖧 Sou Analista de Infraestrutura presto serviço para o Tribunal de Conta do Estado da Paraíba.  
-   Atualmente como estudante na Pós-Desenvolvimento de Software pelo Centro Universitário (Unipê), sempre interessado em conhecer novas tecnologias e tendências. Estou expandindo meu leque de conhecimentos para área de Desenvolvedor Front-end. 
+🖥️ Atualmente como estudante na Pós-Desenvolvimento de Software pelo Centro Universitário (Unipê), sempre interessado em conhecer novas tecnologias e tendências. Estou expandindo meu leque de conhecimentos para área de Desenvolvedor Front-end. 
  
 
 ## Tecnologias que eu uso no meu dia
