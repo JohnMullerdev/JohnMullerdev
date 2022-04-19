@@ -1,4 +1,4 @@
-### Olá! Eu sou John Müller Furtado Pinto ✋
+### Hi, me chamo John Müller Furtado Pinto ✋
 
 ## Tecnologias que eu uso no meu dia
 
