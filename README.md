@@ -1,5 +1,8 @@
 ### Hi, me chamo John Müller Furtado Pinto ✋
 
+  Atualmente como estudante na Pós-Desenvolvimento de Software pelo Centro Universitário (Unipê), sempre interessado em conhecer novas tecnologias e tendências. Estou expandindo meu leque de conhecimentos para área de Desenvolvedor Front-end. 
+  Sou Analista de Infraestrutura presto serviço para o Tribunal de Conta da minha região.  
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
